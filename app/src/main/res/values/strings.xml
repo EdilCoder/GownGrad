@@ -1,0 +1,192 @@
+<resources>
+    <string name="app_name">GownGrad</string>
+    <string name="sign_in_button">Let\'s Get Started</string>
+    <string name="sign_up_button">Sign up</string>
+    <string name="start_screen_sign_up">Already have an account?</string>
+    <string name="start_screen_welcome">Your Graduation Outfit Partner</string>
+    <string name="start_screen_describe">Wide Selection of Graduation Caps and Gowns"</string>
+    <string name="sign_up_screen_text">Complete the following steps to create an account</string>
+    <string name="sign_up_screen_name">Full name</string>
+    <string name="sign_up_screen_email">Email</string>
+    <string name="sign_up_screen_password">Password</string>
+    <string name="sign_up_screen_confirm_password">Confirm Password</string>
+    <string name="sign_up_screen_button">Login</string>
+    <string name="Login_screen_email">Email</string>
+    <string name="Login_screen_password">Password</string>
+    <string name="Login_screen_text">Hello! Welcome Back.</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="placeholder_search">Search</string>
+    <string name="banchelores">Banchelores</string>
+    <string name="masters">Masters</string>
+    <string name="doctors">Doctors</string>
+    <string name="higher_doctors">Higher Doctors</string>
+    <string name="welcome">Welcome</string>
+    <string name="categories">Categories</string>
+    <string name="best_for_you">Best for you</string>
+    <string name="bottom_navigation_explore">Explore</string>
+    <string name="bottom_navigation_favorite">Favorite</string>
+    <string name="bottom_navigation_cart">Cart</string>
+    <string name="bottom_navigation_profile">Profile</string>
+
+    <string name="master_dress">Master Dress</string>
+    <string name="price">16$</string>
+    <string name="favorites_dress">Favorites Dress</string>
+    <string name="add_to_cart">Add to cart</string>
+    <string name="sub_total">Subtotal:</string>
+    <string name="delivery_fee">Delivery Fee:</string>
+    <string name="checkout">CHECKOUT</string>
+
+    <string name="product_added_cart">Product successfully added to cart.</string>
+    <string name="go_to_cart">Go to cart</string>
+    <string name="cart_empty">Your cart is currently empty!</string>
+    <string name="card_holder">Card Holder</string>
+
+    <string name="valid_thru">VALID THRU</string>
+    <string name="expiry_date_placeholder">MM/YY</string>
+    <string name="fill_all_fields">Please fill in all fields!!</string>
+    <string name="payment_success">Payment completed</string>
+    <string name="continue_shopping">Continue shopping</string>
+    <string name="delivery">Delivery</string>
+    <string name="total">Total</string>
+    <string name="payment">Payment</string>
+    <string name="card_num">Card Number</string>
+    <string name="expiry_date">Expiry Date</string>
+    <string name="cvc">CVC</string>
+    <string name="institution_details">INSTITUTION DETAILS</string>
+    <string name="enter_your_login_details">ENTER YOUR LOGIN DETAILS</string>
+    <string name="create_your_account">CREATE YOUR ACCOUNT</string>
+    <string name="edit_your_profile">EDIT YOUR PROFILE</string>
+    <string name="size_details">SIZE DETAILS</string>
+    <string name="academic_dress_hire_section">HIRE SECTION</string>
+    <string name="title_checkout">CHECKOUT</string>
+    <string name="thank_you">THANK YOU</string>
+
+    <string name="edit_item">Edit Item</string>
+
+    <string name="splash_title">SPLASH</string>
+
+    <!-- common -->
+    <string name="required_fields">*required fields</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="repeat_password">Repeat password</string>
+    <string name="generic_error">Something wrong happened. Please try again.</string>
+    <string name="email_error">Please insert a valid email.</string>
+    <string name="cancel">Cancel</string>
+    <string name="try_again">Try again</string>
+    <string name="ok">OK</string>
+    <string name="save">Save</string>
+    <string name="full_name">Full Name</string>
+    <string name="street_address">Street Address</string>
+    <string name="zip_code">Zip/Postal Code</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="field_required">Address can\'t be empty.</string>
+
+    <!-- InstitutionScreen -->
+    <string name="enter_institution">Please select your institution:*</string>
+    <string name="enter_institution_ex">ex. University of Sheffield</string>
+    <string name="enter_degree">Please select your award/degree:*</string>
+    <string name="enter_degree_ex">ex. Masters Degrees - MSc</string>
+
+    <!-- SizeScreen -->
+    <string name="height_details">Your height(cm):*</string>
+    <string name="height_details_ex">ex. 180</string>
+    <string name="chest_details">Chest size(cm):*</string>
+    <string name="chest_details_ex">ex. 80</string>
+    <string name="hat_details">Hat size(cm):*</string>
+    <string name="hat_details_ex">ex. 56</string>
+    <string name="size_tips">Size Tips</string>
+    <string name="gowns">GOWNS:</string>
+    <string name="gowns_details">Please give your full height, chest, hat in metres. When measuring your height please do not wear any footwear with a heel.</string>
+    <string name="hats">HATS:</string>
+    <string name="hats_details">Please supply the measurement for the circumference of your head, taking the measurement from one inch (2.5cm) above your eyebrows (see diagram).Please note that a hat is not always worn at graduation ceremonies, but you will be advised of your ceremony dress code when placing your order.</string>
+
+    <!-- BagScreen -->
+    <string name="hire_price_title">HIRE PRICE:</string>
+    <string name="hire_price">￡30</string>
+    <string name="deposit_price_title">DEPOSIT PRICE:</string>
+    <string name="deposit_price">￡50</string>
+    <string name="total_price_title">TOTAL PRICE:</string>
+    <string name="total_price">￡80</string>
+    <string name="hire_note">Please note that the deposit must be returned within 5 days after the goods arrive. If it exceeds 5 days, £5 will be deducted from the deposit for each additional day.</string>
+    <string name="gowns_details_bag">UNDERGRADUATE GOWN</string>
+    <string name="institution_text">Institution: %s</string>
+    <string name="degree_text">Degree Type: %s</string>
+    <string name="height_text">Height: %.1f cm</string>
+    <string name="chest_text">Chest: %.1f cm</string>
+    <string name="hat_text">Hat Size: %.1f cm</string>
+    <string name="edit_button">EDIT</string>
+    <string name="checkout_button">CHECKOUT</string>
+
+    <!-- EditItemScreen -->
+    <string name="institution_label">Institution Name</string>
+    <string name="degree_label">Degree Type</string>
+    <string name="height_label">Height</string>
+    <string name="chest_label">Chest</string>
+    <string name="hat_label">Hat Size</string>
+
+    <!-- CheckoutScreen -->
+    <string name="billing_address">Billing Addresses</string>
+    <string name="create_account_checkout">Create Account</string>
+    <string name="enter_address_checkout">Enter Address</string>
+    <string name="notice">Notice</string>
+    <string name="notice_text">You are about to enter an address without creating an account. This information won\'t be saved for future orders.</string>
+    <string name="ok_button">OK</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="payment_information">PAYMENT INFORMATION</string>
+
+
+
+    <!-- LoginScreen -->
+    <string name="sign_in">Sign in</string>
+    <string name="login_details">Enter your login details</string>
+    <string name="forgot_password">Forgot password? Click to get recovery email</string>
+    <string name="recovery_email_sent">Check your inbox for the recovery email.</string>
+    <string name="empty_password_error">Password cannot be empty.</string>
+
+    <!-- SignUpScreen -->
+    <string name="create_account">Create account</string>
+    <string name="password_error">Your password should be at least six characters long and include one digit, one lowercase letter and one uppercase letter.</string>
+    <string name="password_match_error">Passwords do not match.</string>
+    <string name="no_current_user_error">No current user</string>
+    <string name="firebase_auth_error">Firebase authentication failed.</string>
+
+    <!-- SettingsScreen -->
+    <string name="settings">SETTINGS</string>
+    <string name="sign_out">Sign out</string>
+    <string name="delete_my_account">Delete my account</string>
+    <string name="sign_out_error">Sign out failed.</string>
+    <string name="delete_account_error">Delete account failed.</string>
+    <string name="add_address">Add address</string>
+    <string name="edit_address">Edit address</string>
+    <string name="load_address_error">Load address failed</string>
+    <string name="save_address_error">Save address failed</string>
+    <string name="delete_address_error">Delete address failed</string>
+
+
+    <!-- Dialogs -->
+    <string name="sign_out_title">Sign out?</string>
+    <string name="sign_in_failed">Sign failed. Please try again.</string>
+    <string name="error_recovery_email">Sign out failed. Please try again.</string>
+    <string name="sign_up_success">Sign up successful.</string>
+    <string name="sign_out_description">You will have to sign in again to see your order.</string>
+    <string name="delete_account_title">Delete account?</string>
+    <string name="delete_account_description">You will lose all your address and your account will be deleted. This action is irreversible.</string>
+    <string name="login_in_failed">Login failed.</string>
+    <string name="item_not_found">Item not found</string>
+
+    <!-- GeneralScreen -->
+    <string name="general">Add Address Details</string>
+    <string name="edit_general">Edit General</string>
+
+    <!-- MyOrderScreen -->
+    <string name="my_order">MY ORDERS</string>
+    <string name="my_order_detail">Order Details</string>
+    <string name="my_order_button_text">My Order</string>
+
+    <string name="order_details">ORDER DETAILS</string>
+
+
+
+</resources>

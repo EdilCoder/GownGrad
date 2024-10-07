@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "433885650388",
+    "project_id": "gowngrad",
+    "storage_bucket": "gowngrad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433885650388:android:a9d6cca1a962c5687c4a41",
+        "android_client_info": {
+          "package_name": "com.example.gowngrad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj76W51lgXy--vjMLbyX0LdOtbuiLcUn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
